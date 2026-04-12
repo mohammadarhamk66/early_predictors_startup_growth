@@ -48,6 +48,14 @@ The following variables were engineered to represent early-stage characteristics
 
 ---
 
+## Sample Visualization
+
+![Median Early Funding by Series A Outcome](images/median_funding_seriesA_final.png)
+
+Startups that reached Series A showed higher median early funding compared to those that did not.
+
+---
+
 ## Project Structure
 
 ```

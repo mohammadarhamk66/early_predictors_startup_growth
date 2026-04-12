@@ -44,20 +44,22 @@ The following variables were engineered to represent early-stage characteristics
 
 ## Project Structure
 
+## Project Structure
+
+```
 early_predictors_startup_growth/
-│
 ├── data/
-│ ├── Investors_DS1.csv
-│ ├── Startups_funding_DS2.csv
-│ └── startup_master_dataset.csv
+│   ├── Investors_DS1.csv
+│   ├── Startups_funding_DS2.csv
+│   └── startup_master_dataset.csv
 │
 ├── notebooks/
-│ └── early_predictors_startup_growth.ipynb
+│   └── early_predictors_startup_growth.ipynb
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ## How to Run
 1. Clone the repository  

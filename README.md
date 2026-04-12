@@ -63,9 +63,7 @@ early_predictors_startup_growth/
 └── .gitignore
 ```
 
-3. Open the notebook:
-
-notebooks/early_predictors_startup_growth.ipynb
+3. Open the notebook: `notebooks/early_predictors_startup_growth.ipynb`
 
 
 ---

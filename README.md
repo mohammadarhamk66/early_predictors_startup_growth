@@ -61,12 +61,15 @@ Startups that reached Series A showed higher median early funding compared to th
 ```
 early_predictors_startup_growth/
 ├── data/
-│   ├── Investors_DS1.csv
-│   ├── Startups_funding_DS2.csv
-│   └── startup_master_dataset.csv
+│ ├── Investors_DS1.csv
+│ ├── Startups_funding_DS2.csv
+│ └── startup_master_dataset.csv
 │
 ├── notebooks/
-│   └── early_predictors_startup_growth.ipynb
+│ └── early_predictors_startup_growth.ipynb
+│
+├── images/
+│ └── median_funding_seriesA_final.png
 │
 ├── README.md
 ├── requirements.txt

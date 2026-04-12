@@ -1,5 +1,7 @@
 # Early Predictors of Startup Growth
 
+> A data analysis project exploring early indicators of startup success and progression to Series A funding.
+
 ## Project Summary
 This project investigates early-stage indicators of startup success using real-world funding data, with a focus on progression to a Series A funding round.
 
